@@ -1,5 +1,6 @@
-# announcement
+# announce-redis
 announcement system and saved in redis
+## npm install announce-redis
  ## 公告系统(公告性邮件)
  * 可用于发布通知,发放全服奖励等功能.
  * 与用户私人邮件不同,公告均为全服唯一,所有玩家共享.
